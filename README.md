@@ -21,3 +21,7 @@ $ cd BotSpam
 $ ls
 
 $ python main_bot.py
+
+# Password
+password nya ada dalam bio whatsapp admin
+https://wa.me/+15204976517
